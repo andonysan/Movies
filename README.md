@@ -1,5 +1,5 @@
 # Proyecto movies
 ## Axel Michel
-## Sebastian Tapia
+## Sebastian Tapia , 26, Buenos Aires 
 ## Luciana Garcia
 ## Andony Sanchez
