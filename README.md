@@ -1,5 +1,5 @@
 # Proyecto movies
-## Axel Michel
+## Axel Michel - 26 Años - Villa Gobernador Gálvez (Rosario).
 ## Sebastian Tapia
 ## Luciana Garcia
 ## Andony Sanchez
