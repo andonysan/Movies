@@ -21,8 +21,4 @@ let sucursales = {
 
 
 
-<<<<<<< HEAD
 module.exports = sucursales
-=======
-module.exports = sucursales
->>>>>>> develop
